@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Css-No-Framework", "Css-No-Framework\Css-No-Framework.csproj", "{BA1589FF-D966-4A5A-AAA0-07BF20FDE6F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA1589FF-D966-4A5A-AAA0-07BF20FDE6F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1589FF-D966-4A5A-AAA0-07BF20FDE6F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA1589FF-D966-4A5A-AAA0-07BF20FDE6F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1589FF-D966-4A5A-AAA0-07BF20FDE6F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F61AFDEB-DE71-4772-8C67-F59FD4387CF8}
+	EndGlobalSection
+EndGlobal
